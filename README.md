@@ -30,7 +30,7 @@ To run the code in a Jupyter Notebook, open your notebook and execute the follow
 
 ### Jupyter Notebook
 
-1. Open the Jupyter Notebook where the code is located.
+1. Open the Jupyter Notebook iris_nn_verification_notebook.ipynb where the code is located.
 2. Run all the cells to train the neural network and verify its robustness.
 
 ### `.py` Scripts
